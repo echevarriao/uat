@@ -450,6 +450,8 @@ ul#default-footer li a:hover{
 <?php wp_footer(); ?>
 <script language = "javascript" type = "text/javascript">
     	
+    /* foundation init */
+    
     $(document).foundation();
     
 </script>
